@@ -1,5 +1,5 @@
 # 💫 About Me:
-fun fact
+
 
 
 # 💻 Tech Stack:
