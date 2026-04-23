@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Golu Kumar</h1>
 <h3 align="center">🚀 MERN Stack Developer | Frontend Specialist | CSE Student</h3>
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="center">
+  <img width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</p>
 
 ---
 
