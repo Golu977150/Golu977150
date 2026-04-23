@@ -7,7 +7,7 @@
 
 ## 💫 About Me
 
-- 🎓 3rd Year B.Tech CSE Student at NIMS University  
+- 🎓 Final Year B.Tech CSE Student at NIMS University  
 - 💻 Passionate about Full Stack Web Development  
 - ⚡ Skilled in building responsive & scalable web apps  
 - 🚀 Currently focusing on **MERN Stack & Next.js**  
@@ -80,11 +80,19 @@
 
 ## 🏆 Experience
 
+💼 **Full Stack Web Developer Intern – MainCrafts Technologies India**  
+- Developed full-stack web applications using MERN stack (MongoDB, Express, React, Node.js)  
+- Created responsive and user-friendly UI components with modern design principles  
+- Improved application performance and reduced load time through optimization techniques  
+- Worked on real-world client projects and implemented scalable solutions  
+- Collaborated in a team environment using Git and version control workflows  
+- 
 💼 **Frontend Developer Intern – CODEC Technologies India**  
-- Developed responsive UI components  
-- Improved website performance & design  
-- Worked with real-world projects  
-
+- Built responsive web interfaces using React, HTML, CSS, and JavaScript  
+- Enhanced website performance and reduced load time through optimization techniques  
+- Transformed UI designs into functional and interactive components  
+- Worked on real-world projects, improving usability and user experience  
+- Collaborated with team members using Git and followed agile development practices  
 ---
 
 ## 📊 GitHub Stats
@@ -111,18 +119,18 @@
 
 ## 📬 Connect With Me
 
-- 📧 Email: your-email@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 🌐 Portfolio: https://your-portfolio.com  
+- 📧 Email: golukumhhar196@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/golu-kumar-6b1188307/ 
+- 🌐 Portfolio: https://golukumarr.netlify.app/  
 
 ---
-
 ## 👀 Profile Views
 
-![](https://visitcount.itsvg.in/api?id=Golu977150&icon=0&color=0)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Golu977150&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+</p>
 
 ---
-
 ## ⚡ Fun Fact
 
 💡 I believe in **"Code. Build. Learn. Repeat."** 🚀
