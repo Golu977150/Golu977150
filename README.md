@@ -1,4 +1,5 @@
-# 💫 About Me:I am a passionate and dedicated Computer Science Engineering student with a strong interest in Full Stack Web Development and modern web technologies. Currently in my 3rd year, I am focused on building scalable, user-friendly, and visually appealing web applications while continuously improving my problem-solving and development skills.
+# 💫 About Me:
+I am a passionate and dedicated Computer Science Engineering student with a strong interest in Full Stack Web Development and modern web technologies. Currently in my 3rd year, I am focused on building scalable, user-friendly, and visually appealing web applications while continuously improving my problem-solving and development skills.
 
 I have hands-on experience working with both frontend and backend technologies, allowing me to develop complete end-to-end applications. My core strength lies in creating responsive UI designs and integrating them with efficient backend systems.
 
