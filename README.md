@@ -1,4 +1,25 @@
-# 💫 About Me:
+# 💫 About Me:I am a passionate and dedicated Computer Science Engineering student with a strong interest in Full Stack Web Development and modern web technologies. Currently in my 3rd year, I am focused on building scalable, user-friendly, and visually appealing web applications while continuously improving my problem-solving and development skills.
+
+I have hands-on experience working with both frontend and backend technologies, allowing me to develop complete end-to-end applications. My core strength lies in creating responsive UI designs and integrating them with efficient backend systems.
+
+I enjoy working with technologies like JavaScript, React, Node.js, and databases like MongoDB & MySQL, and I am actively exploring advanced concepts in the MERN stack and modern frameworks like Next.js.
+
+Beyond coding, I am highly interested in:
+
+Building real-world projects that solve practical problems
+Learning new tools, frameworks, and industry trends
+Improving UI/UX design using tools like Figma
+Contributing to team-based and collaborative development environments
+
+I have also completed a Frontend Development Internship, where I gained practical industry exposure and improved my skills in writing clean, maintainable, and scalable code.
+
+Currently, I am seeking opportunities as a Frontend / Full Stack Developer (Fresher) where I can:
+
+Apply my skills in real-world projects
+Learn from experienced developers
+Contribute to impactful and innovative products
+
+I believe in continuous learning, consistency, and building projects, which helps me grow as a developer every day.
 
 
 
